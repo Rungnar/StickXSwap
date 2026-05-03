@@ -70,6 +70,7 @@ Incorrect configuration may result in one or more of the following issues:
 
 ## Notes
 
+- Only XInput-compatible controllers (Xbox controllers and equivalents) are supported
 - Some games may require administrator privileges  
 - Exclusive fullscreen mode may affect input behavior  
 - HidHide must be configured correctly for proper operation  
