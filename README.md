@@ -71,12 +71,12 @@ Incorrect configuration may result in one or more of the following issues:
 
 ## Notes
 
-- Some games may require administrator privileges
-- Exclusive fullscreen mode may affect input behavior
-- HidHide must be configured correctly for proper operation
-- Designed for low-latency real-time controller remapping
-- Controller should be connected before launching StickXSwap
-
+- Some games may require administrator privileges  
+- Exclusive fullscreen mode may affect input behavior  
+- HidHide must be configured correctly for proper operation  
+- Designed for low-latency real-time controller remapping  
+- The controller should be connected before launching StickXSwap  
+- For troubleshooting, see: [TROUBLESHOOTING](./TROUBLESHOOTING.md)
 ---
 
 ## License
