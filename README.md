@@ -7,7 +7,7 @@
 
 Lightweight Windows input utility that swaps the X-axis of both analog sticks on an Xbox-compatible (XInput) controller in real time using virtual controller emulation via ViGEmBus. It runs in the system tray and supports toggle switching with hotkey and on-screen status indicator. Ideal for first-person games that lack a Legacy / "goofy" stick option (such as Bethesda titles).
 
-The physical controller should be plugged in before launching StickXSwap.
+The physical controller should be plugged in before launching StickXSwap. Supports XInput-compatible controllers only.
 
 ---
 
