@@ -1,0 +1,8 @@
+C:\Users\mgasp\source\repos\StickXSwap\bin\Release\net8.0-windows\publish\StickXSwap.exe
+C:\Users\mgasp\source\repos\StickXSwap\bin\Release\net8.0-windows\publish\StickXSwap.dll
+C:\Users\mgasp\source\repos\StickXSwap\bin\Release\net8.0-windows\publish\StickXSwap.deps.json
+C:\Users\mgasp\source\repos\StickXSwap\bin\Release\net8.0-windows\publish\StickXSwap.runtimeconfig.json
+C:\Users\mgasp\source\repos\StickXSwap\bin\Release\net8.0-windows\publish\StickXSwap.pdb
+C:\Users\mgasp\source\repos\StickXSwap\bin\Release\net8.0-windows\publish\Nefarius.ViGEm.Client.dll
+C:\Users\mgasp\source\repos\StickXSwap\bin\Release\net8.0-windows\publish\SharpDX.dll
+C:\Users\mgasp\source\repos\StickXSwap\bin\Release\net8.0-windows\publish\SharpDX.XInput.dll

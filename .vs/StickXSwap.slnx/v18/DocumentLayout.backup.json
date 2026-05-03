@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mgasp\\source\\repos\\StickXSwap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7360DABE-743B-E5FD-964F-CF2446A0BCEA}|StickXSwap.csproj|c:\\users\\mgasp\\source\\repos\\stickxswap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7360DABE-743B-E5FD-964F-CF2446A0BCEA}|StickXSwap.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7360DABE-743B-E5FD-964F-CF2446A0BCEA}|StickXSwap.csproj|c:\\users\\mgasp\\source\\repos\\stickxswap\\stickxswap.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7360DABE-743B-E5FD-964F-CF2446A0BCEA}|StickXSwap.csproj|solutionrelative:stickxswap.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7360DABE-743B-E5FD-964F-CF2446A0BCEA}|StickXSwap.csproj|c:\\users\\mgasp\\source\\repos\\stickxswap\\stickxswap.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7360DABE-743B-E5FD-964F-CF2446A0BCEA}|StickXSwap.csproj|solutionrelative:stickxswap.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StickXSwap",
+              "DocumentMoniker": "C:\\Users\\mgasp\\source\\repos\\StickXSwap\\StickXSwap.csproj",
+              "RelativeDocumentMoniker": "StickXSwap.csproj",
+              "ToolTip": "C:\\Users\\mgasp\\source\\repos\\StickXSwap\\StickXSwap.csproj",
+              "RelativeToolTip": "StickXSwap.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-03T04:57:45.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mgasp\\source\\repos\\StickXSwap\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mgasp\\source\\repos\\StickXSwap\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAkwOwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T04:56:58.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StickXSwap.csproj",
+              "DocumentMoniker": "C:\\Users\\mgasp\\source\\repos\\StickXSwap\\StickXSwap.csproj",
+              "RelativeDocumentMoniker": "StickXSwap.csproj",
+              "ToolTip": "C:\\Users\\mgasp\\source\\repos\\StickXSwap\\StickXSwap.csproj",
+              "RelativeToolTip": "StickXSwap.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-03T04:53:43.302Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
