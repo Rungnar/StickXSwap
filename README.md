@@ -26,10 +26,20 @@ If there is no input detection, input duplication, or the X-axis swap is not app
 
 ## Requirements
 
+- Windows 10/11
+- [.NET 8 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 - [ViGEmBus Driver](https://github.com/ViGEm/ViGEmBus/releases)
 - [HidHide](https://github.com/ViGEm/HidHide/releases)
-- [.NET 8 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
-- Windows 10/11
+
+---
+
+## Installation
+
+- Install ViGEmBus
+- Install HidHide
+- Build or download StickXSwap
+- Run the executable
+- Use Alt + F7 to toggle swap ON/OFF
 
 ---
 
@@ -48,16 +58,6 @@ Incorrect configuration may result in one or more of the following issues:
 - Double input in games  
 - Controller not detected in-game  
 - X-axis swap not being applied
-
----
-
-## Installation
-
-- Install ViGEmBus
-- Install HidHide
-- Build or download StickXSwap
-- Run the executable
-- Use Alt + F7 to toggle swap ON/OFF
 
 ---
 
