@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StickXSwap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4c095e852fd35e3ee332853829a418371faa8a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("StickXSwap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StickXSwap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mgasp\\source\\repos\\StickXSwap\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7360DABE-743B-E5FD-964F-CF2446A0BCEA}|StickXSwap.csproj|c:\\users\\mgasp\\source\\repos\\stickxswap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7360DABE-743B-E5FD-964F-CF2446A0BCEA}|StickXSwap.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7360DABE-743B-E5FD-964F-CF2446A0BCEA}|StickXSwap.csproj|c:\\users\\mgasp\\source\\repos\\stickxswap\\stickxswap.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{7360DABE-743B-E5FD-964F-CF2446A0BCEA}|StickXSwap.csproj|solutionrelative:stickxswap.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7360DABE-743B-E5FD-964F-CF2446A0BCEA}|StickXSwap.csproj|c:\\users\\mgasp\\source\\repos\\stickxswap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7360DABE-743B-E5FD-964F-CF2446A0BCEA}|StickXSwap.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7360DABE-743B-E5FD-964F-CF2446A0BCEA}|StickXSwap.csproj|c:\\users\\mgasp\\source\\repos\\stickxswap\\stickxswap.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StickXSwap",
               "DocumentMoniker": "C:\\Users\\mgasp\\source\\repos\\StickXSwap\\StickXSwap.csproj",
               "RelativeDocumentMoniker": "StickXSwap.csproj",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mgasp\\source\\repos\\StickXSwap\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

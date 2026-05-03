@@ -19,3 +19,4 @@ C:\Users\mgasp\source\repos\StickXSwap\obj\Release\net8.0-windows\refint\StickXS
 C:\Users\mgasp\source\repos\StickXSwap\obj\Release\net8.0-windows\StickXSwap.pdb
 C:\Users\mgasp\source\repos\StickXSwap\obj\Release\net8.0-windows\StickXSwap.genruntimeconfig.cache
 C:\Users\mgasp\source\repos\StickXSwap\obj\Release\net8.0-windows\ref\StickXSwap.dll
+C:\Users\mgasp\source\repos\StickXSwap\obj\Release\net8.0-windows\StickXSwap.sourcelink.json
