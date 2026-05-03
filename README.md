@@ -11,15 +11,6 @@ The physical controller should be plugged in before launching StickXSwap. Suppor
 
 ---
 
-## Requirements
-
-- [ViGEmBus Driver](https://github.com/ViGEm/ViGEmBus/releases)
-- [HidHide](https://github.com/ViGEm/HidHide/releases)
-- [.NET 8 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
-- Windows 10/11
-
----
-
 ## Downloads
 
 The latest build can be downloaded from the [Releases](https://github.com/Rungnar/StickXSwap/releases) page.
@@ -30,6 +21,15 @@ When using releases, ensure all dependencies are installed:
 - HidHide must be configured correctly to hide the physical controller while allowing StickXSwap access
 
 If there is no input detection, input duplication, or the X-axis swap is not applied, see: [TROUBLESHOOTING](./TROUBLESHOOTING.md)
+
+---
+
+## Requirements
+
+- [ViGEmBus Driver](https://github.com/ViGEm/ViGEmBus/releases)
+- [HidHide](https://github.com/ViGEm/HidHide/releases)
+- [.NET 8 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+- Windows 10/11
 
 ---
 
