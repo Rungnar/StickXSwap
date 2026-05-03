@@ -81,5 +81,4 @@ Incorrect configuration may result in one or more of the following issues:
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 (GPL-3.0).  
-See the [LICENSE](LICENSE) file for full details.
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0). See the [LICENSE](LICENSE) file for full details.
