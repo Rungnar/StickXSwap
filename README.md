@@ -26,7 +26,6 @@ If there is no input detection, input duplication, or the X-axis swap is not app
 
 ## Requirements
 
-- Windows 10/11
 - [.NET 8 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 - [ViGEmBus Driver](https://github.com/ViGEm/ViGEmBus/releases)
 - [HidHide](https://github.com/ViGEm/HidHide/releases)
