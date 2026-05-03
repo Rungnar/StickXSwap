@@ -20,8 +20,6 @@ When using releases, ensure all dependencies are installed:
 - ViGEmBus must be installed and running
 - HidHide must be configured correctly to hide the physical controller while allowing StickXSwap access
 
-If there is no input detection, input duplication, or the X-axis swap is not applied, see: [TROUBLESHOOTING](./TROUBLESHOOTING.md)
-
 ---
 
 ## Requirements
@@ -75,6 +73,7 @@ Incorrect configuration may result in one or more of the following issues:
 - HidHide must be configured correctly for proper operation  
 - Designed for low-latency real-time controller remapping  
 - The controller should be connected before launching StickXSwap
+- If there is input duplication, no input detection, the X-axis swap is not applied, or toggle hotkey is unresponsive, see: [TROUBLESHOOTING](./TROUBLESHOOTING.md)
   
 ---
 
