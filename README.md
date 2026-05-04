@@ -1,7 +1,6 @@
 # StickXSwap
 
 [![GitHub release](https://img.shields.io/github/v/release/Rungnar/StickXSwap)](https://github.com/Rungnar/StickXSwap/releases/latest)
-[![GitHub downloads](https://img.shields.io/github/downloads/Rungnar/StickXSwap/total)](https://github.com/Rungnar/StickXSwap/releases)
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue)](https://www.gnu.org/licenses/gpl-3.0.html)
 [![.NET](https://img.shields.io/badge/.NET-8.0-purple)](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
